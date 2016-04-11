@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ATruax Photography | San Diego Photographer of Music, Headshots and More]]></title>
         <description><![CDATA[ATruax Photography | San Diego Photographer of Music, Headshots and More]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atruax-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 22:45:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 23:09:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atruax-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-iad3-1.xx.fbcdn.net/hphotos-xpt1/t31.0-8/s960x960/12771923_796994657072493_8825049109130793812_o.jpg">]]></description>
+            <link>https://thegrid.ai/atruax-photography/01619ffc-7fed-49e9-9de7-3d69bb0ae818/index.html</link>
+            <guid isPermaLink="false">01619ffc-7fed-49e9-9de7-3d69bb0ae818</guid>
+            <pubDate>Mon, 11 Apr 2016 23:09:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed085007-c883-4502-bb5c-2d8d14c20168.jpg">]]></description>
-            <link>undefinede9a0d74a-75e0-4e5b-8b35-4d7b98c3a833/index.html</link>
+            <link>https://thegrid.ai/atruax-photography/e9a0d74a-75e0-4e5b-8b35-4d7b98c3a833/index.html</link>
             <guid isPermaLink="false">e9a0d74a-75e0-4e5b-8b35-4d7b98c3a833</guid>
             <pubDate>Mon, 11 Apr 2016 22:44:21 GMT</pubDate>
         </item>

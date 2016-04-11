@@ -1,7 +1,7 @@
 name: ATruax Photography
 favicon: null
 layout_spectrum: 0.03583232965320349
-typography_spectrum: 0.9749809408094734
+typography_spectrum: 0.70711
 title: 'ATruax Photography | San Diego Photographer of Music, Headshots and More'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.819671010831371
+  brandStrength: 0.75
   lightness: 0.6726225870661438
   saturation: 0.3373225722461939
   rhythmicContrast: 0.8986073392443359

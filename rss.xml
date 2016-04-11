@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ATruax Photography | San Diego Photographer of Music, Headshots and More]]></title>
+        <description><![CDATA[ATruax Photography | San Diego Photographer of Music, Headshots and More]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 22:45:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed085007-c883-4502-bb5c-2d8d14c20168.jpg">]]></description>
+            <link>undefinede9a0d74a-75e0-4e5b-8b35-4d7b98c3a833/index.html</link>
+            <guid isPermaLink="false">e9a0d74a-75e0-4e5b-8b35-4d7b98c3a833</guid>
+            <pubDate>Mon, 11 Apr 2016 22:44:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
